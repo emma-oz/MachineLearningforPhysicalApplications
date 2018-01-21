@@ -1,7 +1,7 @@
 # MachineLearningforPhysicalApplications
 This is a public repository that contains scripts in Matlab, Python, and Python with Tensorflow. The scripts run machine learning classification or regression schemes. Homework related to these tasks can be found under ECE 285 (http://noiselab.ucsd.edu/ECE285/) by Dr. Gerstoft. For research applications, see citations below.
 
-Note: The folder and .zip file "matlab/libsvm_matlab" contains the executables to run Scikit-Learn in Matlab. Nothing need be done with these except leave them in the directory.
+Note: The folder "matlab/libsvm_matlab" contains the executables to run Scikit-Learn in Matlab. Nothing need be done with these except leave them in the directory.
 
 For the future, I plan to wgetl to a Dropbox directory for loading additional data examples.
 
