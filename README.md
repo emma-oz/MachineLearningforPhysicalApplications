@@ -1,7 +1,7 @@
 # MachineLearningforPhysicalApplications
-This is a public repository that contains scripts in Matlab, Python, and Python with Tensorflow. The scripts run machine learning classification or regression schemes. Homework related to these tasks can be found under ECE 285 (http://noiselab.ucsd.edu/ECE285/) by Dr. Gerstoft. For research applications, see citations below.
+This is a public repository that contains scripts in Matlab, Python, and Python with Tensorflow that run machine learning classification or regression schemes. Homework related to these tasks can be found under ECE 285 (http://noiselab.ucsd.edu/ECE285/) by Dr. Gerstoft. For research applications, see citations below.
 
-For instructions on compiling individual binaries where necessary, see ReadMe.txt in each folder.
+For instructions on compiling individual binaries where necessary, see ReadMe.txt in each folder. Requirements.txt is left empty for now since Tensorflow installation is platform and software dependent (Windows v Mac, pip v Conda, etc...)
 
 Citations: 
 
